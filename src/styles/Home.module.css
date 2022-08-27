@@ -1,0 +1,16 @@
+
+.page{
+    background-image: url('../img/milad-fakurian-GJKx5lhwU3M-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.text{
+    margin: 0;
+}

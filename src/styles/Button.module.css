@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+
+
+.button{
+    font-size:18px;
+    font-family: 'Comfortaa', cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width:140px;
+    height:50px;
+    border-width:0px;
+    color:#2121e4;
+    border-color:#ffffff;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px #88878A;
+    background:#ffffff;
+    transition: background-color .5s ease-out 50ms
+}
+
+.button:hover{
+    font-size:18px;
+    font-family: 'Comfortaa', cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width:140px;
+    height:50px;
+    border-width:0px;
+    color:#ffffff;
+    border-color:#ffffff;
+    border-radius: 30px;
+    box-shadow: 2px 2px 6px #88878A;
+    background:#2121e4;
+}
+

@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+
+.center{
+    border: 0;
+    padding: 0;
+    height: 600px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    display: block;
+
+}
+
+.me{
+    height: 50%;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    display: block;
+}
+    
+.buttonsContainer{
+    margin-right: 0;
+    height: 50%;
+    width: 100%;
+    justify-content:center;
+    display: flex;
+    
+}
+
+.buttons{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.Name{
+    height: 50%;
+    border: 0;
+    margin: 0;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.MyName{
+    
+    margin: 0;
+    height: 70%;
+    display: flex;
+    width: 90%;
+    align-items: center;
+    font-family: 'Comfortaa', cursive;
+    font-size: 80px;
+    justify-content: center;
+    color: #2121e4;
+    
+    
+    
+}
+
+.Area{
+    height: 50%;
+    border: 0;
+    margin: 0;
+    align-items:initial;
+    display: flex;
+    justify-content: center;
+}
+
+.MyArea{
+    margin: 0;
+    height: 25%;
+    display: flex;
+    width: 50%;
+    align-items:center;
+    font-family: 'Comfortaa', cursive;
+    font-size: 50px;
+    justify-content:center;
+    color:#2121e4;
+    
+    
+}
